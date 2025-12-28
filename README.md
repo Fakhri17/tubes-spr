@@ -7,8 +7,8 @@
 
 ```bash
 # Clone repository
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/Fakhri17/tubes-spr.git
+cd tubes-spr
 
 # Buat dan aktivasi virtual environment
 python -m venv venv
